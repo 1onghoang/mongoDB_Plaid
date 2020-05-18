@@ -5,6 +5,9 @@
 // Install dependencies for server & client
 npm install && npm run client-install
 
+//change directory into client (cd client)
+npm install react-plaid-link-button material-table --save 
+
 // Run client & server with concurrently
 npm run dev
 
